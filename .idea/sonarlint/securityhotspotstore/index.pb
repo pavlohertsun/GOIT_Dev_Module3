@@ -24,3 +24,7 @@ X
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 w
 G.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35,b/f/bfb9453d49af9bc40f5f7a5f034be3c7ef8fa6bf
+L
+src/main/java/main/main.java,1/1/11df2f4681d63dcc759cd116e8ffe24faebfa0c8
+L
+src/main/java/main/Main.java,7/f/7f08be4e9c62f2e5f8f02242af89b918cb9a135f
